@@ -23,10 +23,12 @@ import gui.cliente.EntradaTransaccion;
 import gui.cliente.SalidaTransaccion;
 import gui.cliente.Transaccion;
 
+
 /**
  *
  * @author pc
  */
+
 public class Principal extends javax.swing.JFrame {
 	
 	public static ArrayList<Bloque> cadenaBloques = new ArrayList<Bloque>();
