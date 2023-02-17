@@ -1,0 +1,5 @@
+# Project exclude paths
+/GUI Cliente.zip_expanded/bin/
+/GUI Servidor.zip_expanded/bin/
+/GUIBlockchain/GUIBlockchain/bin/
+/GUIBlockchainTransacciones/bin/
